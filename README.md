@@ -1,1 +1,1 @@
-# Website built for AP Computer Science Project
+# Website built for AP Computer Science Projects
