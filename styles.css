@@ -27,7 +27,7 @@ header nav ul li {
     clear: both;
 }
 
-#projects {
+#projects #aboutme{
     margin: 0 auto;
     width: 90%;
     max-width: 600px;
@@ -38,7 +38,7 @@ header nav ul li {
     border-bottom: 3px solid rgb(255, 217, 0)
 }
 
-.project img {
+.project img, #aboutme img {
     width: 250px;
     float: left;
     margin-right: 10px;
