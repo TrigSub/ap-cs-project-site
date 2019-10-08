@@ -47,5 +47,5 @@ header nav ul li {
 
 .project h2 {
     font-size: 150%;
-    margin-bottom: 10px;
+    border-bottom: 10px solid rgb(255, 200, 0);
 }
