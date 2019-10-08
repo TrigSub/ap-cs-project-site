@@ -27,7 +27,7 @@ header nav ul li {
     clear: both;
 }
 
-#projects, #aboutme{
+#projects, #aboutme {
     margin: 0 auto;
     width: 90%;
     max-width: 600px;
