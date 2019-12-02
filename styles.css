@@ -3,11 +3,11 @@ body {
 }
 
 a {
-  color: rgb(255, 81, 0);
+  color: rgb(255 81, 0);
 }
 
 a:hover {
-  color: #00AEFF;
+  color: rgb(275, 61, 0);
 }
 
 .clear {
@@ -17,7 +17,7 @@ a:hover {
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(255, 81, 5);
 }
 
 header h1 {
@@ -36,7 +36,7 @@ header nav ul li {
 
 .project {
   margin-bottom: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(255, 81, 5);
 }
 
 .project img, #aboutme img  {
